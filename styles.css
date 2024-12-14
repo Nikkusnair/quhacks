@@ -1,0 +1,20 @@
+body {
+     background-color:lightgrey
+ }
+#rules {
+    /* CONTENT */
+    background-color: black; /* Sets the box's background color to black */
+    color: white; /* Sets the text color to white */
+
+    /* PADDING */
+    padding: 30px; /* Sets the spacing around the text to 30 pixels */
+
+    /* BORDER */
+    border-style: solid; /* Sets the border style to solid lining */
+    border-color: cornflowerblue; /* Sets the border color to cornflower blue */
+    border-width: 10px; /* Sets the border width to 10 pixels */
+
+    /* MARGIN */
+    margin: 20px; /* Sets the spacing around the box to 20 pixels */
+   
+}
